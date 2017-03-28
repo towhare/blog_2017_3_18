@@ -3,6 +3,7 @@
 ### 1.首先创建仓库
 ### 2.再创建标题
 > reigd
+<pre><code>
         <html>
         <head>
         </head>
@@ -10,4 +11,5 @@
         this is my first webpage(not really)
         </body>
         </html>
+</code></pre>
 ## that's it
